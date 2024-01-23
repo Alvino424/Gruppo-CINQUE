@@ -9,8 +9,11 @@ Abbiamo valutato la qualità dei dati ottenuti attraverso il modello qualitativo
 
 I dati utilizzati presentano un abbondanza di metadati descrittivi e strutturali. Un esempio dei metadati descrittivi forniti è relativo alla definizione delle regioni, ossia del loro nome, del codice ISTAT che le identifica, della loro posizione, popolazione etc. Per quanto riguarda i metadati strutturali, sono presenti vari file che descrivono la struttura dei dati e le relazioni presenti tra loro: questi metadati sono stati fondamentali per orientarci nella mole di dati e per pianificare la nostra analisi.
 
-**descrizione dei campi
-dare un nome ad attributi e campi in modo descrittivo
-definire chiave primaria per ogni tabella
-domande da porre al cliente
-**
+descrizione dei campi/
+
+dare un nome ad attributi e campi in modo descrittivo/
+
+definire chiave primaria per ogni tabella/
+
+domande da porre al cliente/
+
